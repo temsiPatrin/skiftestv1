@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">skif test v1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="speedTxt">Скорость</string>
+    <string name="playTxt">play</string>
+</resources>
